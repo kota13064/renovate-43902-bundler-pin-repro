@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'rack', '~> 2.2'
+gem 'rack', '~> 3.0'
